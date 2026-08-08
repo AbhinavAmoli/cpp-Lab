@@ -1,2 +1,1 @@
-# cpp-Lab
-c++ lab journal with soulutions
+# GEHU OOPS with CPP lab III semester 
